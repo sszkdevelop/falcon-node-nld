@@ -1,0 +1,20 @@
+{
+  "name": "nld",
+  "version": "1.0.0",
+  "description": "natural language dashboard",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Sriharsha Samala",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "express": "^4.15.3",
+    "jquery": "^3.2.1",
+    "semantic-ui": "^2.2.10",
+    "vue": "^2.3.4",
+    "vuetify": "^0.12.7"
+  }
+}
